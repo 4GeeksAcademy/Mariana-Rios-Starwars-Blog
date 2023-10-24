@@ -1,0 +1,19 @@
+.card{
+    width: 300px;
+    margin: 10px;
+    background-color: black;
+    border: solid grey;
+    padding: 0px;
+    color: white;
+}
+
+
+body{
+    background-color: black;
+}
+
+h2{
+    color: red;
+    text-align: start;
+    margin: 10px;
+}

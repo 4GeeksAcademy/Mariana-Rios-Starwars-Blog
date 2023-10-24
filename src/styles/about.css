@@ -1,0 +1,32 @@
+.abtPage {
+    color: white;
+}
+
+/* .topAbtPage {
+    display: flex;
+} */
+
+.abtImgBox {img {
+    height: 400px;
+    width: 300px;
+}
+}
+
+.topText{
+    padding:20px;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.abtInfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.abtInfo, p {
+    margin: 10px;
+}
+
