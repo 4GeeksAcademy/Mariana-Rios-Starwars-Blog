@@ -6,8 +6,8 @@ export const Navbar = () => {
 	const {store, actions} = useContext(Context)
 
 	return (
-		<nav className="navbar-light bg-light mb-3">
-			<nav className="navbar navbar-light bg-light container">
+		<nav className="navbar-light bg-secondary mb-3">
+			<nav className="navbar navbar-light bg-secondary container">
 				<Link to="/">
 					<span className="navbar-brand mb-0 h1"><img src="https://1000logos.net/wp-content/uploads/2017/06/Star-Wars-Logo-1.png" style={{width: "5rem"}}/></span>
 				</Link>
